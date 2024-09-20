@@ -20,7 +20,7 @@ h1 {
     flex-direction: column;
     gap: 10px;
 }
-#playAgain {
+.btn {
     padding: 10px 20px;
     font-size: 1em;
     cursor: pointer;
